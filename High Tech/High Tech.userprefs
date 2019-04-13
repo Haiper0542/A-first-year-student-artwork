@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="High Tech.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\01.Scripts\Bullet.cs">
+    <Files>
+      <File FileName="Assets\01.Scripts\BookCover.cs" Line="1" Column="1" />
+      <File FileName="Assets\01.Scripts\Action_Script\Hold.cs" Line="1" Column="1" />
+      <File FileName="Assets\01.Scripts\Gun.cs" Line="17" Column="6" />
+      <File FileName="Assets\01.Scripts\Bullet.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
