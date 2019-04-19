@@ -50,5 +50,13 @@
   + 전기 철조망, 차량, 파이프, 가속 방지턱 : 점프로만 회피가능합니다.
   + 미사일 : 화면에 느낌표 표시가 뜨게 되며, 숙이기로 회피할 경우 계속 나아가며 다른 장애물을 파괴합니다.
 ### 게임 화면
-* **처음 시작하는 방입니다. 상호작용가능한 아이템들이 바닥이 떨어져 있습니다.**
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56396900-14721b80-627c-11e9-8dc3-26b2e6c184e0.png></img>
+* **게임시작 화면입니다. 해당 게임은 마이크로 비트와 연동되기 때문에 좌측 하단 UI로 시리얼포트 연결을 할 수 .**
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406391-6a11ec80-62ab-11e9-84a7-d69790f335f5.png></img>
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406402-6b431980-62ab-11e9-9853-4681b894098f.png></img>
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406417-6d0cdd00-62ab-11e9-960e-35040f4d1505.png></img>
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406424-6da57380-62ab-11e9-9d10-d086281261b7.png></img>
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406428-6e3e0a00-62ab-11e9-8d63-8071e9854da5.png></img>
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406436-6ed6a080-62ab-11e9-8a9c-d6167b553da3.png></img>
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406444-6f6f3700-62ab-11e9-87a7-9bea4649f6e4.png></img>
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406450-7007cd80-62ab-11e9-93b3-d7c21b0f2000.png></img>
+<img width="70%" src="https://user-images.githubusercontent.com/40797534/56406457-7138fa80-62ab-11e9-8a2d-c19679ccfd3f.png></img>
